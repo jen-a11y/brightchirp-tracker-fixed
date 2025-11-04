@@ -1,0 +1,24 @@
+
+{
+  "name": "brightchirp-reflection-tracker",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.45.4",
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recharts": "2.10.3"
+  },
+  "devDependencies": {
+    "typescript": "5.3.3",
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7"
+  }
+}
