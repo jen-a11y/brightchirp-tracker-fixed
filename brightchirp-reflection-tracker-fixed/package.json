@@ -1,7 +1,7 @@
 
 {
   "name": "brightchirp-reflection-tracker",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3000",
